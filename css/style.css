@@ -6,3 +6,7 @@ body{
 }
 h1,h2{margin:0 0 1rem}
 p   {margin:0 0 .8rem}
+
+h1{font-size:2.5rem;text-align:center;color:#0097e6}
+h2{text-align:center;color:#33d9b2;margin-bottom:2rem}
+p{text-indent:1.5rem}
