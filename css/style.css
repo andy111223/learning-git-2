@@ -1,0 +1,8 @@
+body{
+  font-family: system-ui, sans-serif;
+  line-height: 1.6;
+  margin: 40px;
+  max-width: 40rem;
+}
+h1,h2{margin:0 0 1rem}
+p   {margin:0 0 .8rem}
